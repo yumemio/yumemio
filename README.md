@@ -22,6 +22,6 @@ I am an **AI/ML engineer** in Japan. I am working at a software company, applyin
 
 ## Things unrelated to engineering
 * I love 🚲cycling and 👒hiking.
-* 🎵Music: I am a big fan of [Team Shanghai Alice](https://en.touhouwiki.net/wiki/Team_Shanghai_Alice) [^1]. My name, `yumemio`, is taken from [Yumemi Okazaki](https://en.touhouwiki.net/wiki/Yumemi_Okazaki), a bizarre physiologist/ the final boss of their game "The Phantasmagoria of Dim.Dream".
+* 🎵Music: I am a big fan of [Team Shanghai Alice](https://en.touhouwiki.net/wiki/Team_Shanghai_Alice) [^1]. My name, `yumemio`, is taken from [Yumemi Okazaki](https://en.touhouwiki.net/wiki/Yumemi_Okazaki), a bizarre physicist/ the final boss of their game "The Phantasmagoria of Dim.Dream".
 
 [^1]: They are more famous for shoot'em up games they make, which I'm not very good at...
