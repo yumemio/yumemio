@@ -17,8 +17,9 @@ I am an **AI/ML engineer** in Japan. I am working at a software company, applyin
 ## Certificates
 * [ITEE](https://www.jitec.ipa.go.jp/index-e.html) (Information Technology Engineers Examination; 情報処理技術者試験)
   * Applied Information Technology Engineer (応用情報技術者)
-  * Database Specialist (データベーススペシャリスト) 
+  * Database Specialist (データベーススペシャリスト)
   * Network Specialist (ネットワークスペシャリスト)
+  * Embedded Systems Specialist (エンベデッドシステムスペシャリスト)
 
 ## Things unrelated to engineering
 * I love 🚲cycling and 👒hiking.
