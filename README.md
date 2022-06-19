@@ -4,7 +4,7 @@ I am an **AI/ML engineer** in Japan. I am working at a software company, applyin
 
 ## Skills & Interests
 * 💻💬Programming languages
-  * I often write **Python** and **bash** scripts at work (2+ years of professional experience).                                                                         
+  * I often write **Python** and **bash** scripts at work (3+ years of professional experience).                                                                         
   * At times I do coding in **PHP, JavaScript** (to make Web apps) and **Java** (Android apps).
 * 😃💬Human languages 
   * Japanese (native)
