@@ -8,7 +8,7 @@ I am an **AI/ML engineer** in Japan. I am working at a software company, applyin
   * At times I do coding in **PHP, JavaScript** (to make Web apps) and **Java** (Android apps).
 * 😃💬Human languages 
   * Japanese (native)
-  * English (fluent)
+  * English
 * 📔Project management
   * I have successfully managed several projects, including image analyses and an Android app development.
 * 🎯Interest
