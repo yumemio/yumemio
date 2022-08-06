@@ -20,6 +20,8 @@ I am an **AI/ML engineer** in Japan. I am working at a software company, applyin
   * Database Specialist (データベーススペシャリスト)
   * Network Specialist (ネットワークスペシャリスト)
   * Embedded Systems Specialist (エンベデッドシステムスペシャリスト)
+* The [EIKEN](https://www.eiken.or.jp/eiken/en/) English proficiency test (実用英語技能検定)
+  * Grade 1 (1級; CEFR C1)
 
 ## Things unrelated to engineering
 * I love 🚲cycling and 👒hiking.
