@@ -1,30 +1,52 @@
-# Hi, I'm yumemio!
+# yumemio / Yuki Sasaki
 
-I am an **AI/ML engineer** in Japan. I am working at a software company, applying 👀**deep learning-based computer vision** technology to agriculture and geo-sensing.
+[yumem.io](https://yumem.io/) (blog, lang: Japanese) , [LinkedIn](https://www.linkedin.com/in/yumemio/), [StackOverflow](https://stackoverflow.com/users/13301046/yumemio)
 
-## Skills & Interests
+I am a **machine learning/ GIS engineer** working for [Northern System Service](https://nssv.co.jp/) in Iwate, Japan.
+
+Mainly I do two things:
+
+* Apply **👀deep learning-based computer vision** and Web technologies to agriculture🌱 and geo-sensing🛰️
+* Develop **🌏[CesiumJS](https://cesium.com/platform/cesiumjs/)**-based web software to support planetary science research🔬.
+
+## Skills
+
 * 💻💬Programming languages
-  * I often write **Python** and **bash** scripts at work (3+ years of professional experience).                                                                         
-  * At times I do coding in **PHP, JavaScript** (to make Web apps) and **Java** (Android apps).
+  * I often write **Python**, **JavaScript/TypeScript** programs and **shell scripts** (4+ years of professional experience).
+  * At times I do coding in **PHP** and **Java**, although I'm not *very* good at them (compared to Python/JS/Shell).
 * 😃💬Human languages 
   * Japanese (native)
   * English
 * 📔Project management
-  * I have successfully managed several projects, including image analyses and an Android app development.
-* 🎯Interest
-  * I am interested in **[Voice Conversion](https://paperswithcode.com/task/voice-conversion)**.
+  * I have a record of successful product launches, including...
+    * 🌱Plant pest diagnosis device, capable of edge inference (fast & no Internet connection required!)
+    * 🛰️Satellite image analysis tool
+    * 🚀Web-based asteroid data visualization system
 
 ## Certificates
-* [ITEE](https://www.jitec.ipa.go.jp/index-e.html) (Information Technology Engineers Examination; 情報処理技術者試験)
-  * Applied Information Technology Engineer (応用情報技術者)
+
+* ✏️[ITEE](https://www.jitec.ipa.go.jp/index-e.html) (Information Technology Engineers Examination; 情報処理技術者試験)
+  * System Architect (システムアーキテクト)
   * Database Specialist (データベーススペシャリスト)
   * Network Specialist (ネットワークスペシャリスト)
   * Embedded Systems Specialist (エンベデッドシステムスペシャリスト)
-* The [EIKEN](https://www.eiken.or.jp/eiken/en/) English proficiency test (実用英語技能検定)
+* ☁️[Google Cloud Certification](https://cloud.google.com/learn/certification)
+  * Professional Cloud Architect
+  * Associate Cloud Engineer
+* 🇬🇧The [EIKEN](https://www.eiken.or.jp/eiken/en/) English proficiency test (実用英語技能検定)
   * Grade 1 (1級; CEFR C1)
 
-## Things unrelated to engineering
-* I love 🚲cycling and 👒hiking.
-* 🎵Music: I am a big fan of [Team Shanghai Alice](https://en.touhouwiki.net/wiki/Team_Shanghai_Alice) [^1]. My name, `yumemio`, is taken from [Yumemi Okazaki](https://en.touhouwiki.net/wiki/Yumemi_Okazaki), a bizarre physicist/ the final boss of their game "The Phantasmagoria of Dim.Dream".
 
-[^1]: They are more famous for shoot'em up games they make, which I'm not very good at...
+## Research
+
+* (Pre-print) Investigation to Answer Three Key Questions Concerning Plant Pest Identification and Development of a Practical Identification Framework, Ryosuke Wayama, Yuki Sasaki, Satoshi Kagiwada, Nobusuke Iwasaki, and Hitoshi Iyatomi, Jul 2023, SSRN pre-print (http://dx.doi.org/10.2139/ssrn.4524872)
+* (Poster) JAXA Asteroid Data Explorer (JADE) for Accessing and Retrieving Hayabusa2 ONC Image Data: 2023 Update, Kikuchi, H.; Yamamoto, M.; Yokota, Y.; Otake, H.; Honda, R.; Sugita, S.; Morota, T.; Wayama, R.; Sasaki, Y.; Kobayashi, C.; Hemmi, R.; Miyamoto, H.; Yamamoto, Y.; Hirata, N.; Hirata, N.; Sasaki, S.; Komatsu, G.; Demura, H.; Honda, C.; Yamada, M.; Kameda, S.; Tatsumi, E.; Murakami, S.; Cho, Y.; Yoshikawa, K.; Sawada, H.; Sakatani, N.; Hayakawa, M.; Matsuoka, M.; Kouyama, T.; Suzuki, H.; Ogawa, K.; Honda, K.; Uno, W.; Syoji, D.; Sato, H.
+54th Lunar and Planetary Science Conference, held 13-17 March, 2023 at The Woodlands, Texas and virtually. LPI Contribution No. 2806, id.2001 (https://www.hou.usra.edu/meetings/lpsc2023/pdf/2001.pdf)
+
+## Things unrelated to engineering
+
+* I love 🚲cycling and 👒hiking.
+* 🎵Music: I am a big fan of the soundtracks from the [Touhou Project](https://en.touhouwiki.net/wiki/Touhou_Project) [^1], a Danmaku game series popular in Japan.
+  * My username `yumemio` was inspired by [Yumemi Okazaki](https://en.touhouwiki.net/wiki/Yumemi_Okazaki), a bizarre physicist and the final boss from "Phantasmagoria of Dim. Dream", an old title in the game series.
+
+[^1]: I'm not a skilled Danmaku player, though.
