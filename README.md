@@ -33,8 +33,8 @@ Mainly I do two things:
 * ☁️[Google Cloud Certification](https://cloud.google.com/learn/certification)
   * Professional Cloud Architect
   * Associate Cloud Engineer
-* 🇬🇧The [EIKEN](https://www.eiken.or.jp/eiken/en/) English proficiency test (実用英語技能検定)
-  * Grade 1 (1級; CEFR C1)
+* 🇬🇧[TOEIC Speaking & Writing](https://www.ets.org/toeic/test-takers/about/speaking-writing.html) test
+  * S/W = 180/200 ([CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) C1)
 
 
 ## Research
