@@ -11,13 +11,13 @@ Mainly I do two things:
 
 ## Skills
 
-* 💻💬Programming languages
+* 💻💬 Programming languages
   * I often write **Python**, **JavaScript/TypeScript** programs and **shell scripts** (4+ years of professional experience).
   * At times I do coding in **PHP** and **Java**, although I'm not *very* good at them (compared to Python/JS/Shell).
-* 😃💬Human languages 
+* 😃💬 Human languages 
   * Japanese (native)
   * English
-* 📔Project management
+* 📔 Project management
   * I have a record of successful product launches, including...
     * 🌱Plant pest diagnosis device, capable of edge inference (fast & no Internet connection required!)
     * 🛰️Satellite image analysis tool
@@ -25,15 +25,15 @@ Mainly I do two things:
 
 ## Certificates
 
-* ✏️[ITEE](https://www.jitec.ipa.go.jp/index-e.html) (Information Technology Engineers Examination; 情報処理技術者試験)
+* ✏️ [ITEE](https://www.jitec.ipa.go.jp/index-e.html) (Information Technology Engineers Examination; 情報処理技術者試験)
   * System Architect (システムアーキテクト)
   * Database Specialist (データベーススペシャリスト)
   * Network Specialist (ネットワークスペシャリスト)
   * Embedded Systems Specialist (エンベデッドシステムスペシャリスト)
-* ☁️[Google Cloud Certification](https://cloud.google.com/learn/certification)
+* ☁️ [Google Cloud Certification](https://cloud.google.com/learn/certification)
   * Professional Cloud Architect
   * Associate Cloud Engineer
-* 🇬🇧[TOEIC Speaking & Writing](https://www.ets.org/toeic/test-takers/about/speaking-writing.html) test
+* 🇬🇧 [TOEIC Speaking & Writing](https://www.ets.org/toeic/test-takers/about/speaking-writing.html) test
   * S/W = 180/200 ([CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) C1)
 
 
