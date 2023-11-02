@@ -23,7 +23,7 @@ Mainly I do two things:
     * 🛰️Satellite image analysis tool
     * 🚀Web-based asteroid data visualization system
 
-## Certificates
+## Certificates & Tests
 
 * ✏️ [ITEE](https://www.jitec.ipa.go.jp/index-e.html) (Information Technology Engineers Examination; 情報処理技術者試験)
   * System Architect (システムアーキテクト)
@@ -31,10 +31,12 @@ Mainly I do two things:
   * Network Specialist (ネットワークスペシャリスト)
   * Embedded Systems Specialist (エンベデッドシステムスペシャリスト)
 * ☁️ [Google Cloud Certification](https://cloud.google.com/learn/certification)
+  * Professional Machine Learning Engineer ([Credential](https://google.accredible.com/d6811580-d5f4-482d-83cb-86854ac389cb))
   * Professional Cloud Architect ([Credential](https://google.accredible.com/33ea747a-9ea0-4f12-974b-39f200181c8f))
   * Associate Cloud Engineer ([Credential](https://google.accredible.com/7c6d2149-1bf6-49c8-a7a4-05088d1cc121))
 * 🇬🇧 [TOEIC Speaking & Writing](https://www.ets.org/toeic/test-takers/about/speaking-writing.html) test
   * S/W = 180/200 ([CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) C1)
+* 🇬🇧 [TOEIC Reading & Listening](https://www.ets.org/toeic/test-takers/about/listening-reading.html): 980
 
 
 ## Research
