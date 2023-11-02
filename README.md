@@ -31,8 +31,8 @@ Mainly I do two things:
   * Network Specialist (ネットワークスペシャリスト)
   * Embedded Systems Specialist (エンベデッドシステムスペシャリスト)
 * ☁️ [Google Cloud Certification](https://cloud.google.com/learn/certification)
-  * Professional Cloud Architect
-  * Associate Cloud Engineer
+  * Professional Cloud Architect ([Credential](https://google.accredible.com/33ea747a-9ea0-4f12-974b-39f200181c8f))
+  * Associate Cloud Engineer ([Credential](https://google.accredible.com/7c6d2149-1bf6-49c8-a7a4-05088d1cc121))
 * 🇬🇧 [TOEIC Speaking & Writing](https://www.ets.org/toeic/test-takers/about/speaking-writing.html) test
   * S/W = 180/200 ([CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) C1)
 
