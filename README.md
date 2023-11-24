@@ -4,26 +4,22 @@
 
 I am a **machine learning/ GIS engineer** working for [Northern System Service](https://nssv.co.jp/) in Iwate, Japan.
 
-Mainly I do two things:
-
-* Apply **👀deep learning-based computer vision** and Web technologies to agriculture🌱 and geo-sensing🛰️
-* Develop **🌏[CesiumJS](https://cesium.com/platform/cesiumjs/)**-based web software to support planetary science research🔬.
-
 ## Skills
 
-* 💻💬 Programming languages
-  * I often write **Python**, **JavaScript/TypeScript** programs and **shell scripts** (4+ years of professional experience).
-  * At times I do coding in **PHP** and **Java**, although I'm not *very* good at them (compared to Python/JS/Shell).
-* 😃💬 Human languages 
-  * Japanese (native)
-  * English
+* 💻 Programming languages (ordered by proficiency, descending)
+  * Python
+  * Shell (bash)
+  * JavaScript (vanilla/Vue/Node)
+  * TypeScript
+  * Java
+  * PHP
 * 📔 Project management
   * I have a record of successful product launches, including...
     * 🌱Plant pest diagnosis device, capable of edge inference (fast & no Internet connection required!)
     * 🛰️Satellite image analysis tool
     * 🚀Web-based asteroid data visualization system
 
-## Certificates & Tests
+## Certificates & Test Scores
 
 * ✏️ [ITEE](https://www.jitec.ipa.go.jp/index-e.html) (Information Technology Engineers Examination; 情報処理技術者試験)
   * System Architect (システムアーキテクト)
@@ -45,7 +41,7 @@ Mainly I do two things:
 * (Poster) JAXA Asteroid Data Explorer (JADE) for Accessing and Retrieving Hayabusa2 ONC Image Data: 2023 Update, Kikuchi, H.; Yamamoto, M.; Yokota, Y.; Otake, H.; Honda, R.; Sugita, S.; Morota, T.; Wayama, R.; Sasaki, Y.; Kobayashi, C.; Hemmi, R.; Miyamoto, H.; Yamamoto, Y.; Hirata, N.; Hirata, N.; Sasaki, S.; Komatsu, G.; Demura, H.; Honda, C.; Yamada, M.; Kameda, S.; Tatsumi, E.; Murakami, S.; Cho, Y.; Yoshikawa, K.; Sawada, H.; Sakatani, N.; Hayakawa, M.; Matsuoka, M.; Kouyama, T.; Suzuki, H.; Ogawa, K.; Honda, K.; Uno, W.; Syoji, D.; Sato, H.
 54th Lunar and Planetary Science Conference, held 13-17 March, 2023 at The Woodlands, Texas and virtually. LPI Contribution No. 2806, id.2001 (https://www.hou.usra.edu/meetings/lpsc2023/pdf/2001.pdf)
 
-## Things unrelated to engineering
+## Miscellaneous
 
 * I love 🚲cycling and 👒hiking.
 * 🎵Music: I am a big fan of the soundtracks from the [Touhou Project](https://en.touhouwiki.net/wiki/Touhou_Project) [^1], a Danmaku game series popular in Japan.
