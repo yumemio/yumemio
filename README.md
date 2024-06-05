@@ -40,9 +40,8 @@ I am a **machine learning/ GIS engineer** working for [Northern System Service](
 
 ## Research
 
-* (Pre-print) Investigation to Answer Three Key Questions Concerning Plant Pest Identification and Development of a Practical Identification Framework, Ryosuke Wayama, Yuki Sasaki, Satoshi Kagiwada, Nobusuke Iwasaki, and Hitoshi Iyatomi, Jul 2023, SSRN pre-print (http://dx.doi.org/10.2139/ssrn.4524872)
-* (Poster) JAXA Asteroid Data Explorer (JADE) for Accessing and Retrieving Hayabusa2 ONC Image Data: 2023 Update, Kikuchi, H.; Yamamoto, M.; Yokota, Y.; Otake, H.; Honda, R.; Sugita, S.; Morota, T.; Wayama, R.; Sasaki, Y.; Kobayashi, C.; Hemmi, R.; Miyamoto, H.; Yamamoto, Y.; Hirata, N.; Hirata, N.; Sasaki, S.; Komatsu, G.; Demura, H.; Honda, C.; Yamada, M.; Kameda, S.; Tatsumi, E.; Murakami, S.; Cho, Y.; Yoshikawa, K.; Sawada, H.; Sakatani, N.; Hayakawa, M.; Matsuoka, M.; Kouyama, T.; Suzuki, H.; Ogawa, K.; Honda, K.; Uno, W.; Syoji, D.; Sato, H.
-54th Lunar and Planetary Science Conference, held 13-17 March, 2023 at The Woodlands, Texas and virtually. LPI Contribution No. 2806, id.2001 (https://www.hou.usra.edu/meetings/lpsc2023/pdf/2001.pdf)
+* R. Wayama, Y. Sasaki, S. Kagiwada, N. Iwasaki, and H. Iyatomi, "Investigation to answer three key questions concerning plant pest identification and development of a practical identification framework," Comput. Electron. Agric., vol. 222, 2024, Art. no. 109021. [Online]. Available: https://authors.elsevier.com/c/1j83HcFCSbGaT
+* H. Kikuchi et al., "JAXA Asteroid Data Explorer (JADE) for Accessing and Retrieving Hayabusa2 ONC Image Data: 2023 Update," presented at the 54th Lunar and Planetary Science Conf., The Woodlands, TX, Mar. 13-17, 2023. LPI Contribution No. 2806, id.2001. [Online]. Available: https://www.hou.usra.edu/meetings/lpsc2023/pdf/2001.pdf
 
 ## Miscellaneous
 
